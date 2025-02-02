@@ -2,11 +2,11 @@
 # of over 100 lbs
 
 # Import packages
-import  time # Record run time of algorythm
-import random # for stochastic needs of algorythm
+import  time # Record run time of algorithm
+import random # for stochastic needs of algorithm
 import statistics # get the mean values of the runs
 
-# INITIALIZE STARTING CONSTANTS FOR PROGRAMME CONSTANTS ARE UPPER CASE
+# INITIALIZE STARTING CONSTANTS FOR PROGRAMME - CONSTANTS ARE UPPER CASE
 GOAL = 5000
 NUM_RATS = 20
 INITIAL_MIN_WT = 200
